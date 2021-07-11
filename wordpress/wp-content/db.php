@@ -1,0 +1,1 @@
+/mnt/c/Users/Syfor/OneDrive/Work/Oclock/trinity/S08/wordpress/wp-content/plugins/query-monitor/wp-content/db.php

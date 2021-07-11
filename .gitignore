@@ -1,0 +1,6 @@
+# /!\ fichier avec les mots de passe
+wp-config.php
+acoucherdehors.php
+
+# dossier upload avec lesimages, trop lourd !
+/wp-content/uploads
